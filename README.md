@@ -117,14 +117,14 @@ Independent of the language that is being spoken, ensure that your language skil
 
 Q: When do you have to start? Is it too late for me to learn?
 
-A: You should start as soon as possible, and hopefully during a period of time where you are free for a few hours a day to work. For me, that was middle school, which is a great time because you have no responsibilities at all. There is no such thing as too late, but there is such a thing as putting it off for so long that you miss out on fun.
+A: You should start as soon as possible, and hopefully during a period of time where you are free for a few hours a day to work. Middle school is a great time because you have no responsibilities at all. The more responsibilites you have, the harder it is to find the time. There is no such thing as too late, but there is such a thing as putting it off for so long that you miss out on fun.
 
 Q: How long will it take me to learn to hack?
 
 A: It really depends how much time you spend in front of a computer doing difficult and productive work. I'll say that at 1000 hours you should be pretty decent. This course will give you about 200 and there's easily another 800 on the [Roppers Roadmap](https://www.hoppersroppers.org/roadmap/) to get you where you need to be. Spend some time doing CTFs and you should be good in about two years.
 
 
-Q: Would you help me to crack a system, or teach me how to crack? (Especially girlfriend/child's phone/computer/social media)
+Q: Can you help me break into my (friend/girlfriend/child)'s (phone/computer/social media)?
 
 A: No. Don't break the law and definitely don't be an abusive piece of shit.
 
